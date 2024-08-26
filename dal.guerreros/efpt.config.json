@@ -1,0 +1,73 @@
+﻿{
+   "ContextClassName": "Db_GuerrerosContext",
+   "ContextNamespace": null,
+   "DefaultDacpacSchema": null,
+   "FilterSchemas": false,
+   "IncludeConnectionString": false,
+   "ModelNamespace": null,
+   "OutputContextPath": "DBContext",
+   "OutputPath": null,
+   "ProjectRootNamespace": "dal.guerreros",
+   "Schemas": null,
+   "SelectedHandlebarsLanguage": 0,
+   "SelectedToBeGenerated": 1,
+   "Tables": [
+      {
+         "HasPrimaryKey": true,
+         "Name": "[dbo].[ClinicalStudy]"
+      },
+      {
+         "HasPrimaryKey": true,
+         "Name": "[dbo].[Gender]"
+      },
+      {
+         "HasPrimaryKey": true,
+         "Name": "[dbo].[Leaflet]"
+      },
+      {
+         "HasPrimaryKey": true,
+         "Name": "[dbo].[Postulation]"
+      },
+      {
+         "HasPrimaryKey": true,
+         "Name": "[dbo].[ResearchSites]"
+      },
+      {
+         "HasPrimaryKey": true,
+         "Name": "[dbo].[Specialty]"
+      },
+      {
+         "HasPrimaryKey": true,
+         "Name": "[dbo].[Sponsor]"
+      },
+      {
+         "HasPrimaryKey": true,
+         "Name": "[dbo].[StudyCategory]"
+      },
+      {
+         "HasPrimaryKey": true,
+         "Name": "[dbo].[StudyType]"
+      },
+      {
+         "HasPrimaryKey": true,
+         "Name": "[dbo].[Suffering]"
+      },
+      {
+         "HasPrimaryKey": true,
+         "Name": "[dbo].[Users]"
+      },
+      {
+         "HasPrimaryKey": true,
+         "Name": "[dbo].[UserType]"
+      }
+   ],
+   "UseDatabaseNames": false,
+   "UseDbContextSplitting": false,
+   "UseFluentApiOnly": true,
+   "UseHandleBars": false,
+   "UseInflector": true,
+   "UseLegacyPluralizer": false,
+   "UseNodaTime": false,
+   "UseSpatial": false,
+   "UseStoredProcedures": false
+}
